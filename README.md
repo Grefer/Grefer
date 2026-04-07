@@ -14,7 +14,7 @@ I am a builder focused on creating with MATLAB and C++. Member since 2019, I mai
 
 > 你好，世界！
 >
-> 我是一名专注于使用 MATLAB 和 C++ 进行开发的构建者。自 2019 年加入 GitHub 以来，我以提交为导向的方式进行开发，在公开贡献中提交占比 100%。
+> 我是一名专注于使用 MATLAB / Python 和 C++ 进行开发的金融量化从业者。自 2019 年加入 GitHub 以来，我以提交为导向的方式进行开发，在记录自己日常工作生活中的一些代码工具。
 
 ## Tech Stack
 
