@@ -16,7 +16,7 @@
 
 I'm a quantitative finance practitioner who builds with **MATLAB / Python / C++**. On GitHub since 2019, I work commit-first — most of what you'll find here are everyday tools and notes from research and trading workflows.
 
-> 你好，世界！
+> Hello, World!
 >
 > 我是一名专注于使用 **MATLAB / Python / C++** 进行开发的金融量化从业者。自 2019 年加入 GitHub 以来，以提交为导向，记录日常研究与交易工作中沉淀下来的小工具与代码片段。
 
