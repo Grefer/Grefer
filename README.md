@@ -54,8 +54,8 @@ I'm a quantitative finance practitioner who builds with **MATLAB / Python / C++*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grefer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Grefer GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grefer&layout=compact&theme=tokyonight&hide_border=true" alt="Grefer Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Grefer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=445" alt="Grefer GitHub Stats" width="420" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grefer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=445" alt="Grefer Top Languages" width="420" height="165" />
 </p>
 
 <p align="center">
