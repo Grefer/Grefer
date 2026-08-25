@@ -98,7 +98,7 @@ below are the ones I actually maintain.
 </p>
 
 <p align="center">
-  <img src="https://grefer-activity-graph.vercel.app/graph?username=Grefer&theme=tokyo-night&hide_border=true&area=true" alt="Grefer Activity Graph" />
+  <img src="https://grefer-activity-graph.vercel.app/graph?username=Grefer&theme=tokyo-night&hide_border=true&area=true" alt="Grefer Activity Graph" width="806" />
 </p>
 
 <p align="center">
