@@ -1,11 +1,6 @@
 <h1 align="center">Grefer</h1>
 
 <p align="center">
-  <em>OTC options trader who writes his own pricing and hedging tools.</em><br>
-  <sub>场外期权交易员 · 自己写定价与对冲工具</sub>
-</p>
-
-<p align="center">
   <a href="https://blog.grefer.cn"><img src="https://img.shields.io/badge/Blog-blog.grefer.cn-0076a8?style=flat-square&logo=hexo&logoColor=white" alt="Blog" /></a>
   <a href="mailto:melonsneverdie@gmail.com"><img src="https://img.shields.io/badge/Email-melonsneverdie%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Grefer&color=0076a8&style=flat-square&label=Profile%20Views" alt="Profile Views" />
@@ -15,14 +10,12 @@
 
 ## 🧭 About
 
-I price and hedge OTC options, and I write the tools I need for it. Most of the code here
-starts as a problem on the desk — pricing a structure the library doesn't cover, deciding
-how often to rebalance, checking whether a model's output actually predicts anything. The
-two projects below are the ones I keep maintaining.
+A quantitative finance practitioner. This account is mostly code and notes that accumulate
+from day-to-day research and trading work, along with a few personal open-source projects
+I develop and maintain.
 
-> 日常工作是场外期权的报价与对冲，用的工具基本都是自己写的。这里的代码大多来自交易台上的
-> 具体问题——定价库不覆盖的结构、调仓频率该怎么定、模型算出来的偏差到底有没有预测力。
-> 先有问题，再有工具。下面两个项目是一直在维护的。
+> 我是一名金融量化从业者，这里主要记录日常研究与交易工作中沉淀下来的代码与笔记，
+> 此外开发并维护若干个人开源项目。
 
 ---
 
