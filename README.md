@@ -1,4 +1,4 @@
-<h1 align="center">Grefer · 王贵福</h1>
+<h1 align="center">Grefer</h1>
 
 <p align="center">
   <em>OTC options trader who writes his own pricing and hedging tools.</em><br>
@@ -8,8 +8,6 @@
 <p align="center">
   <a href="https://blog.grefer.cn"><img src="https://img.shields.io/badge/Blog-blog.grefer.cn-0076a8?style=flat-square&logo=hexo&logoColor=white" alt="Blog" /></a>
   <a href="mailto:melonsneverdie@gmail.com"><img src="https://img.shields.io/badge/Email-melonsneverdie%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/FRM-Charterholder-2b6cb0?style=flat-square" alt="FRM" />
-  <img src="https://img.shields.io/badge/CFA-Level%20I%20Pass-2b6cb0?style=flat-square" alt="CFA" />
   <img src="https://komarev.com/ghpvc/?username=Grefer&color=0076a8&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </p>
 
@@ -17,14 +15,14 @@
 
 ## 🧭 About
 
-I price and hedge OTC options for a living, and I write the tools I need. Eight years inside
-Chinese derivatives — interbank quoting systems, IRS broking, and now delta-hedging an
-options book — so the code here comes from the desk, not from a textbook. The two projects
-below are the ones I actually maintain.
+I price and hedge OTC options, and I write the tools I need for it. Most of the code here
+starts as a problem on the desk — pricing a structure the library doesn't cover, deciding
+how often to rebalance, checking whether a model's output actually predicts anything. The
+two projects below are the ones I keep maintaining.
 
-> 近 8 年金融衍生品从业经历，覆盖利率、外汇、商品与可转债四类资产。现任场外期权交易员，
-> 负责报价与 Delta 动态对冲；此前从事银行间报价引擎系统的产品设计。
-> 这里的代码基本都来自交易台上真实遇到的问题——先有问题，再有工具。
+> 日常工作是场外期权的报价与对冲，用的工具基本都是自己写的。这里的代码大多来自交易台上的
+> 具体问题——定价库不覆盖的结构、调仓频率该怎么定、模型算出来的偏差到底有没有预测力。
+> 先有问题，再有工具。下面两个项目是一直在维护的。
 
 ---
 
