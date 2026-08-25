@@ -23,7 +23,7 @@ options book — so the code here comes from the desk, not from a textbook. The 
 below are the ones I actually maintain.
 
 > 近 8 年金融衍生品从业经历，覆盖利率、外汇、商品与可转债四类资产。现任场外期权交易员，
-> 负责报价与 Delta 动态对冲；此前在中国外汇交易中心子公司负责银行间报价引擎系统的产品设计。
+> 负责报价与 Delta 动态对冲；此前从事银行间报价引擎系统的产品设计。
 > 这里的代码基本都来自交易台上真实遇到的问题——先有问题，再有工具。
 
 ---
