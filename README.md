@@ -98,9 +98,5 @@ below are the ones I actually maintain.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grefer&theme=tokyo-night&hide_border=true&area=true" alt="Grefer Activity Graph" />
-</p>
-
-<p align="center">
   <sub>"Commit small, commit often." — 一次一个仓库，从 2019 年到现在。</sub>
 </p>
